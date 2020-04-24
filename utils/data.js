@@ -1,0 +1,30 @@
+export default [
+  {
+    id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba1',
+    title: 'First Item',
+  },
+  {
+    id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f632',
+    title: 'Second Item',
+  },
+  {
+    id: '58694a0f-3da1-471f-bd96-145571e29d723',
+    title: 'Third Item',
+  },
+  {
+    id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f634',
+    title: 'Second Item',
+  },
+  {
+    id: '58694a0f-3da1-471f-bd96-145571e29d725',
+    title: 'Third Item',
+  },
+  {
+    id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f636',
+    title: 'Second Item',
+  },
+  {
+    id: '58694a0f-3da1-471f-bd96-145571e29d727',
+    title: 'Third Item',
+  },
+];
